@@ -13,7 +13,7 @@ public class individu221 {
                 System.out.print("*"); //untuk mencetak (*)
             }
             
-            System.out.println(); // Pindah ke baris baru setelah satu baris selesai dicetak
+            System.out.println(); // Pindah ke baris baru setelah satu baris selesai dicetaK
         }
     }
 }
