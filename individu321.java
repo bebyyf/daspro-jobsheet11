@@ -14,7 +14,7 @@ public class individu321 {
                     System.out.print(N + " "); // Jika i atau j berada di batas atau di luar batas, cetak nilai N
                 }
             }
-            System.out.println(); // Pindah ke baris baru setelah satu baris selesai dicetak
+            System.out.println();  //Pindah ke- baris baru setelah satu baris selesai dicetak
         }
     }
 }
